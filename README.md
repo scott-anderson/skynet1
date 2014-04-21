@@ -8,5 +8,6 @@ To do:
 
 * implment AI
 * implement weapons
-* 
+* I did a "git clone" to Tempest, made this change and then a "git push"
+
 
